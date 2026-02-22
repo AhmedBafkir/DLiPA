@@ -11,11 +11,11 @@ An iOS app inspired by the [ipatool](https://github.com/majd/ipatool) project. I
 ## Screenshots
 
 <div>
+  <img src="images/1.PNG" height="290">
   <img src="images/2.PNG" height="290">
   <img src="images/3.PNG" height="290">
   <img src="images/4.PNG" height="290">
   <img src="images/5.PNG" height="290">
-  <img src="images/6.PNG" height="290">
 </div>
 
 ## Features
