@@ -27,6 +27,7 @@ An iOS app inspired by the [ipatool](https://github.com/majd/ipatool) project. I
 - [x] Purchase only free apps.
 - [x] Download apps as an ipa file.
 - [x] Download apps with older versions.
+- [x] Download specific app versions via Version ID.
 - [x] Each account has separate downloads.
 - [x] Share apps as an ipa file.
 - [x] Install apps on device.
