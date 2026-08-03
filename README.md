@@ -36,6 +36,19 @@ An iOS app inspired by the [ipatool](https://github.com/majd/ipatool) project. I
 > ⚠️ **Note:** Installing apps directly from within the app may cause issues such as missing automatic updates.  
 > For best results, use AirDrop to install them by sharing from another device.
 
+## Supported Languages
+
+| Language | Language |
+| :--- | :--- |
+| Arabic | Japanese |
+| English | Korean |
+| Chinese (Simplified) | Russian |
+| French | Spanish |
+| German | Turkish |
+| Hindi | Vietnamese |
+| Indonesian | |
+| Italian | |
+
 ## Install DLiPA
 
 Download the latest version from [Releases](https://github.com/AhmedBafkir/DLiPA/releases).
@@ -75,3 +88,8 @@ See all instructions from [here](https://dantheman827.github.io/ios-app-signer/)
 ## Acknowledgements
 
 Special thanks to [ipatool](https://github.com/majd/ipatool) by Majd Alfhaily
+
+## Support the app ♡
+If you find this project useful, I would be very grateful for your support in its continuation and development.
+
+[![Support DLiPA](https://img.shields.io/badge/PayPal-Support_DLiPA-blue?logo=paypal)](https://www.paypal.com/ncp/payment/RLKKWBYSKSPVU)
